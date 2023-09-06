@@ -15,7 +15,7 @@
 
 # 🎮 Winken
 🚀 Here is the video game I made on my own, during my 42 studies: [Winken Game Website](https://www.winkengame.com)
-<br>
+
 <a href="https://www.youtube.com/watch?v=VixCcJEimos">
     <img src="https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Gameplay Badge"/>
 </a>

@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oz8xMVX8XXwlOOmtO/giphy.gif" width="100"/>
-</div>
-
-# Welcome to My GitHub!
-## About Me
+# About Me
 Hello, I'm [Ludwig], a passionate software developer based in [Lyon].
 
 - 🌐 Find me on the web: [LinkedIn](https://www.linkedin.com/in/ludwig-wourms/twitter), [Twitter](https://twitter.com/WuLudwig)

@@ -40,12 +40,13 @@
 <br>
 
 <h1 align="center">🎮 Winken</h1>
+<div id="badges" align="center">
 🚀 Here is the video game I made on my own, during my 42 studies. Winken is a rhythm game in which you learn music theory in the background 🚀
-
+  
 [![WebSite](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
 [![Video](https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VixCcJEimos)
 [![Download Beta](https://img.shields.io/badge/Download_Beta-green?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
-<br>
+</div>
 <br>
 
 <h1 align="center">📘 42 Common Core Projects Summary</h1>

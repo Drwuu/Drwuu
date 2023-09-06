@@ -12,6 +12,7 @@
 
 # 😊 About Me
 🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
+<br>
 # 🌈 Skills 
 <div id="badges" align="center">
 <a href="#">
@@ -36,16 +37,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </a>
 </div>
-
-
-
+<br>
+<br>
 # 🎮 Winken
 🚀 Here is the video game I made on my own, during my 42 studies. Winken is a rhythm game in which you learn music theory in the background 🚀
 
 [![WebSite](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
 [![Video](https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VixCcJEimos)
 [![Download Beta](https://img.shields.io/badge/Download_Beta-green?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
-
+<br>
+<br>
 # 📘 42 Common Core Projects Summary
 
 ## 🌈 42 Skills Summary

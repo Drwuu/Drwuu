@@ -40,7 +40,7 @@
 <br>
 <br>
 
-# 🎮 Winken
+<h1 align="center">🎮 Winken</h1>
 🚀 Here is the video game I made on my own, during my 42 studies. Winken is a rhythm game in which you learn music theory in the background 🚀
 
 [![WebSite](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
@@ -48,7 +48,8 @@
 [![Download Beta](https://img.shields.io/badge/Download_Beta-green?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
 <br>
 <br>
-# 📘 42 Common Core Projects Summary
+
+<h1 align="center">📘 42 Common Core Projects Summary</h1>
 
 ## 🌈 42 Skills Summary
 - 💻 C & C++: memory management, pointers, references, OOP

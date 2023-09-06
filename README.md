@@ -13,8 +13,6 @@
   🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
 </div>
 
-<br>
-
 <h1 align="center">🌈 Skills</h1>
 <div id="badges" align="center">
 <a href="#">

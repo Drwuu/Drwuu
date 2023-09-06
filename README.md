@@ -1,20 +1,17 @@
 # About Me
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ludwig-wourms/twitter">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:wu.ludwig@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/WuLudwig">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 Hello, I'm Ludwig, a passionate software developer based in Lyon.
-
-- 🌐 Find me on the web: [LinkedIn](https://www.linkedin.com/in/ludwig-wourms/twitter), [Twitter](https://twitter.com/WuLudwig)
-- 📬 Reach out: [wu.ludwig@gmail.com](mailto:wu.ludwig@gmail.com)
 
 # 42 Common Core Projects Summary
 

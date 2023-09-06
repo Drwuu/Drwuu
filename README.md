@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/Game_Development-007ACC?style=for-the-badge&logo=game&logoColor=white" alt="Game Development"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" alt="C#"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>

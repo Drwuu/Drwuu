@@ -11,7 +11,10 @@
 </div>
 
 # 😊 About Me
-🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon 🎉💖
+🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
+
+# 🎮 Winken
+🚀 Here is the video game I made on my own, during my 42 studies: [Winken Game Website](https://www.winkengame.com)
 
 # 📘 42 Common Core Projects Summary
 

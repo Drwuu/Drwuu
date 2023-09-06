@@ -38,7 +38,6 @@
 </a>
 </div>
 <br>
-<br>
 
 <h1 align="center">🎮 Winken</h1>
 🚀 Here is the video game I made on my own, during my 42 studies. Winken is a rhythm game in which you learn music theory in the background 🚀

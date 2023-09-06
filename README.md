@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
+  🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. I studied computer programing at 42 and developed my own video game: Winken 🎉💖
 </div>
 
 <h1 align="center">🌈 Skills</h1>

@@ -12,7 +12,7 @@
 
 # 😊 About Me
 🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
-# Skills
+# 🛠️ Skills 💻🌈
 <div id="badges" align="center">
 <a href="#">
   <img src="https://img.shields.io/badge/Game_Development-007ACC?style=for-the-badge&logo=game&logoColor=white" alt="Game Development"/>

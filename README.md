@@ -1,8 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/Capcom-capcom-super-gem-fighter-mini-mix-PnDvC2sOfqK0jqp2Hs" width="100"/>
 </div>
 
-# 42 Common Core Projects
+# Welcome to My GitHub!
+## About Me
+Hello, I'm [Ludwig], a passionate software developer based in [Lyon].
+
+- 🌐 Find me on the web: [LinkedIn](https://www.linkedin.com/in/ludwig-wourms/twitter), [Twitter](https://twitter.com/WuLudwig)
+- 📬 Reach out: [wu.ludwig@gmail.com](mailto:wu.ludwig@gmail.com)
+
+# 42 Common Core Projects Summary
 
 ## Skills summary:
 - C & C++: memory management, pointers, references, Object Oriented Programming (OOP)
@@ -16,7 +23,6 @@
 - GIT, Unix Commands, Makefile, Studio Code
 - Debugging (GDB), Memory Leaks (Valgrind)
 
-These repositories contains my the projects done for the 42 Common Core. Below is a summary of each project.
 ## Libft
 - Implemented a library of standard C functions.
 - Gained a deep understanding of memory allocation, data structures, and basic algorithms.

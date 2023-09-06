@@ -1,4 +1,4 @@
-# 😊 About Me
+<h1 align="center">😊 About Me</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ludwig-wourms/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +14,7 @@
 🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
 <br>
 
-# 🌈 Skills 
+<h1 align="center">🌈 Skills</h1>
 <div id="badges" align="center">
 <a href="#">
   <img src="https://img.shields.io/badge/Game_Development-007ACC?style=for-the-badge&logo=game&logoColor=white" alt="Game Development"/>

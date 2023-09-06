@@ -14,7 +14,7 @@
 🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
 
 # 🎮 Winken
-🚀 Here is the video game I made on my own, during my 42 studies: [Winken Game Website])
+🚀 Here is the video game I made on my own, during my 42 studies. Winken is a rhythm game in which you learn music theory in the background.
 
 [![WebSite](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=download&logoColor=white)](https://www.winkengame.com)
 [![Video](https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VixCcJEimos)

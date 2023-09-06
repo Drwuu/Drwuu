@@ -1,5 +1,5 @@
 # About Me
-Hello, I'm [Ludwig], a passionate software developer based in [Lyon].
+Hello, I'm Ludwig, a passionate software developer based in Lyon.
 
 - 🌐 Find me on the web: [LinkedIn](https://www.linkedin.com/in/ludwig-wourms/twitter), [Twitter](https://twitter.com/WuLudwig)
 - 📬 Reach out: [wu.ludwig@gmail.com](mailto:wu.ludwig@gmail.com)

@@ -12,6 +12,30 @@
 
 # 😊 About Me
 🤗🌟 Hello, I'm Ludwig, a passionate software developer based in Lyon. You will find below a link to the video game I made on my own during my studies at 42. Below will be the projects I made in 42 school 🎉💖
+## Skills
+<div id="badges" align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/Game_Development-007ACC?style=for-the-badge&logo=game&logoColor=white" alt="Game Development"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Microsoft_Azure_Playfab-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Playfab"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+</div>
 
 # 🎮 Winken
 🚀 Here is the video game I made on my own, during my 42 studies. Winken is a rhythm game in which you learn music theory in the background 🚀
@@ -22,7 +46,7 @@
 
 # 📘 42 Common Core Projects Summary
 
-## 🌈 Skills Summary
+## 🌈 42 Skills Summary
 - 💻 C & C++: memory management, pointers, references, OOP
 - 🌐 TS/JS, Three JS, React, Nest
 - 🧵 Multithreading: mutex & semaphore

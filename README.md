@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Capcom-capcom-super-gem-fighter-mini-mix-PnDvC2sOfqK0jqp2Hs" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q5ZHozNnd0a3N3OGtrdzhmaGVvMnM1NjEwem4zMWJkNDQydTRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnDvC2sOfqK0jqp2Hs/giphy.gif" width="100"/>
 </div>
 
 # Welcome to My GitHub!

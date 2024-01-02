@@ -66,7 +66,7 @@
 - 🧵 Multithreading: mutex & semaphore
 - 🔍 Algorithm: Quick Sort, BST & Red Black Trees
 - 🛠️ Process Management: System Calls, Command Parsing, Pipe Management, etc.
-- 🎮 Computer Mathematics: Vectors, Trigonometry, etc.
+- 🎮 Computer Mathematics: Vectors, Trigonometry, Plans, Ray Casting, Equations, 3D Rotation Matrix, etc.
 - 🌐 Network Protocols, Socket Programming, etc.
 - 🐳 Docker, VM, SQL, Nginx
 - 📦 GIT, Unix Commands, Makefile, Studio Code

@@ -100,7 +100,7 @@
 - 🚀 Optimized the algorithm for speed and efficiency, aiming for the least number of operations.
 - ⚙️ Used two stacks for sorting and implemented custom sorting algorithms.
 
-## 🎮 Cub3D
+## 🎮  <a href="https://github.com/Drwuu/cub3d_42"> Cub3D </a>
 - 🌐 Created a 3D ray-casting game engine inspired by Wolfenstein 3D.
 - 🎨 Utilized miniLibX to handle graphics rendering.
 - ⚙️ Implemented features like wall textures, sprite rendering, and basic collision detection.

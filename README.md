@@ -72,40 +72,40 @@
 - 📦 GIT, Unix Commands, Makefile, Studio Code
 - 🐛 Debugging (GDB), Memory Leaks (Valgrind)
 
-## 📚 Libft https://github.com/Drwuu/libft_42
+## 📚 <a href="https://github.com/Drwuu/libft_42" style="color:black;"> Libft </a> 
 - 📘 Implemented a library of standard C functions.
 - 🧠 Gained a deep understanding of memory allocation, data structures, and basic algorithms.
 
-## 📖 Get_Next_Line https://github.com/Drwuu/get_next_line_42
+## 📖 <a href="https://github.com/Drwuu/get_next_line_42" style="color:black;"> Get_Next_Line </a>
 - 📜 Created a function to read lines from a file descriptor, conforming to 42's "Norm."
 - 🔄 Employed static variables to maintain state between function calls.
 
-## 🖨️ Printf https://github.com/Drwuu/ft_printf_42
+## 🖨️ <a href="https://github.com/Drwuu/ft_printf_42" style="color:black;"> Printf </a>
 - 🔧 Engineered a custom printf function in C to mimic the standard library's printf.
 - 🎨 Implemented format specifiers for integers, strings, characters, and hexadecimal values.
 - 🧠 Enhanced understanding of string manipulation and type casting in C.
 
-## 🗨️ Minitalk https://github.com/Drwuu/minitalk_42
+## 🗨️ <a href="https://github.com/Drwuu/minitalk_42" style="color:black;"> Minitalk </a>
 - 🌐 Built a real-time server-client communication system in C using UNIX signals.
 - 📡 Developed both server and client components to transmit and receive messages.
 - 🔄 Practiced IPC (Inter-Process Communication) and signal handling.
 
-## 🚰 Pipex https://github.com/Drwuu/pipex_42
+## 🚰 <a href="https://github.com/Drwuu/pipex_42" style="color:black;"> Pipex </a>
 - 💾 Created a program that mimics the UNIX pipeline between two commands using file descriptors.
 - 💡 Implemented I/O redirection, including input and output to and from files.
 - 🧠 Gained experience in fork-exec-wait process model.
 
-## ♻️ Push Swap https://github.com/Drwuu/push_swap_42
+## ♻️ <a href="https://github.com/Drwuu/push_swap_42" style="color:black;"> Push Swap </a>
 - 🔍 Developed a sorting algorithm to sort a stack of integers with a limited set of operations.
 - 🚀 Optimized the algorithm for speed and efficiency, aiming for the least number of operations.
 - ⚙️ Used two stacks for sorting and implemented custom sorting algorithms.
 
-## 🎮  <a href="https://github.com/Drwuu/cub3d_42" style="color:black;"> Cub3D </a>
+## 🎮 <a href="https://github.com/Drwuu/cub3d_42" style="color:black;"> Cub3D </a>
 - 🌐 Created a 3D ray-casting game engine inspired by Wolfenstein 3D.
 - 🎨 Utilized miniLibX to handle graphics rendering.
 - ⚙️ Implemented features like wall textures, sprite rendering, and basic collision detection.
 
-## 🐚 Minishell https://github.com/Drwuu/minishell_42
+## 🐚 <a href="https://github.com/Drwuu/minishell_42" style="color:black;"> Minishell </a>
 - 💻 Designed and implemented a simplified UNIX shell in C.
 - 📡 Utilized system calls to manage processes and implement job control.
 - ⚙️ Incorporated features such as command parsing, environment variable handling, and built-in command execution.

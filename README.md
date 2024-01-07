@@ -110,42 +110,42 @@
 - 📡 Utilized system calls to manage processes and implement job control.
 - ⚙️ Incorporated features such as command parsing, environment variable handling, and built-in command execution.
 
-## 🐳 Ft_server https://github.com/Drwuu/ft_server_42
+## 🐳 <a href="https://github.com/Drwuu/ft_server_42" style="color:black;"> Server </a>
 - 📚 Developed a project exploring server administration within the 42 School curriculum.
 - 🛠️ Configured an Nginx server with various services like WordPress, phpMyAdmin, and SSL certification.
 - ⚙️ Implemented Docker technology for containerization, facilitating the management and deployment of the server environment.
 
-## 💬 IRC https://github.com/Drwuu/irc_server/tree/main
+## 💬 <a href="https://github.com/Drwuu/irc_server/tree/main" style="color:black;"> IRC </a>
 - 🌐 Built a multi-client Internet Relay Chat (IRC) server and client in C.
 - 🗨️ Implemented features such as channel creation, private messaging, and user authentication.
 - 🌐 Enhanced understanding of socket programming and network protocols.
 
-## 🧪 CPP Modules https://github.com/Drwuu/cpp_42
+## 🧪 <a href="https://github.com/Drwuu/cpp_42" style="color:black;"> CPP Modules </a>
 - 📘 Completed a series of C++ challenges to learn the fundamentals of the language.
 - 🧠 Worked with Object-Oriented Programming, containers, iterators, and algorithmic methods.
 - 🚀 Deepened understanding of C++ Standard Library and language-specific paradigms.
 
-## 🧪 Philosophers https://github.com/Drwuu/philosophers_42
+## 🧪 <a href="https://github.com/Drwuu/philosophers_42" style="color:black;"> Philosophers </a>
 - 📘 Implemented a threading project centered around the concept of dining philosophers using C++.
 - 🛠 Explored the intricate nuances of concurrency, mutexes, and semaphores within the context of the dining philosophers problem.
 - 🚀 Designed and executed solutions to address synchronization issues and deadlock prevention strategies.
 
-## 🌟 Minitalk https://github.com/Drwuu/minitalk_42
+## 🌟 <a href="https://github.com/Drwuu/minitalk_42" style="color:black;"> Minitalk </a>
 - 📚 Constructed a communication system in C, focusing on interprocess communication within the 42 School framework.
 - 🛠️ Implemented a client-server model using signals for seamless data exchange between processes.
 - ⚙️ Engineered a specialized protocol ensuring efficient and reliable data transmission, emphasizing signal handling and low-level system calls.
 
-## 🗺️ Containers https://github.com/Drwuu/containers_42
+## 🗺️ <a href="https://github.com/Drwuu/containers_42" style="color:black;"> Containers </a>
 - 🔍 Developed a custom C++ map container similar to std::map.
 - ⚙️ Implemented basic operations like insert, find, and erase.
 - 🌲 Practiced balancing trees for optimized data storage and retrieval.
 
-## 📦 Inception https://github.com/Drwuu/inception_42
+## 📦 <a href="https://github.com/Drwuu/inception_42" style="color:black;"> Inception </a> 
 - 🐳 Created a Docker-based architecture to deploy multiple services and applications.
 - 🌐 Focused on containerization, orchestration, and DevOps practices.
 - 🚀 Gained experience in Docker, Docker Compose, and microservices architecture.
 
-## 💬 Transcendance 
+## 💬 <a href="https://github.com/Drwuu/minitalk_42" style="color:black;"> Transcendance </a>
 - 🌐 Developed a web-based social network from scratch using HTML, CSS, JavaScript, and back-end frameworks.
 - 🗨️ Implemented features like user authentication, friend requests, posts, and real-time chat.
 - 🚀 Enhanced skills in full-stack development, database design, and RESTful API construction.

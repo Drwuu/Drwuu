@@ -72,30 +72,30 @@
 - 📦 GIT, Unix Commands, Makefile, Studio Code
 - 🐛 Debugging (GDB), Memory Leaks (Valgrind)
 
-## 📚 Libft
+## 📚 Libft https://github.com/Drwuu/libft_42
 - 📘 Implemented a library of standard C functions.
 - 🧠 Gained a deep understanding of memory allocation, data structures, and basic algorithms.
 
-## 📖 Get_Next_Line
+## 📖 Get_Next_Line https://github.com/Drwuu/get_next_line_42
 - 📜 Created a function to read lines from a file descriptor, conforming to 42's "Norm."
 - 🔄 Employed static variables to maintain state between function calls.
 
-## 🖨️ Printf
+## 🖨️ Printf https://github.com/Drwuu/ft_printf_42
 - 🔧 Engineered a custom printf function in C to mimic the standard library's printf.
 - 🎨 Implemented format specifiers for integers, strings, characters, and hexadecimal values.
 - 🧠 Enhanced understanding of string manipulation and type casting in C.
 
-## 🗨️ Minitalk
+## 🗨️ Minitalk https://github.com/Drwuu/minitalk_42
 - 🌐 Built a real-time server-client communication system in C using UNIX signals.
 - 📡 Developed both server and client components to transmit and receive messages.
 - 🔄 Practiced IPC (Inter-Process Communication) and signal handling.
 
-## 🚰 Pipex
+## 🚰 Pipex https://github.com/Drwuu/pipex_42
 - 💾 Created a program that mimics the UNIX pipeline between two commands using file descriptors.
 - 💡 Implemented I/O redirection, including input and output to and from files.
 - 🧠 Gained experience in fork-exec-wait process model.
 
-## ♻️ Push Swap
+## ♻️ Push Swap https://github.com/Drwuu/push_swap_42
 - 🔍 Developed a sorting algorithm to sort a stack of integers with a limited set of operations.
 - 🚀 Optimized the algorithm for speed and efficiency, aiming for the least number of operations.
 - ⚙️ Used two stacks for sorting and implemented custom sorting algorithms.
@@ -105,32 +105,47 @@
 - 🎨 Utilized miniLibX to handle graphics rendering.
 - ⚙️ Implemented features like wall textures, sprite rendering, and basic collision detection.
 
-## 🐚 Minishell
+## 🐚 Minishell https://github.com/Drwuu/minishell_42
 - 💻 Designed and implemented a simplified UNIX shell in C.
 - 📡 Utilized system calls to manage processes and implement job control.
 - ⚙️ Incorporated features such as command parsing, environment variable handling, and built-in command execution.
 
-## 💬 IRC
+## 🐳 Ft_server https://github.com/Drwuu/ft_server_42
+- 📚 Developed a project exploring server administration within the 42 School curriculum.
+- 🛠️ Configured an Nginx server with various services like WordPress, phpMyAdmin, and SSL certification.
+- ⚙️ Implemented Docker technology for containerization, facilitating the management and deployment of the server environment.
+
+## 💬 IRC https://github.com/Drwuu/irc_server/tree/main
 - 🌐 Built a multi-client Internet Relay Chat (IRC) server and client in C.
 - 🗨️ Implemented features such as channel creation, private messaging, and user authentication.
 - 🌐 Enhanced understanding of socket programming and network protocols.
 
-## 🧪 CPP Modules
+## 🧪 CPP Modules https://github.com/Drwuu/cpp_42
 - 📘 Completed a series of C++ challenges to learn the fundamentals of the language.
 - 🧠 Worked with Object-Oriented Programming, containers, iterators, and algorithmic methods.
 - 🚀 Deepened understanding of C++ Standard Library and language-specific paradigms.
 
-## 🗺️ Map
+## 🧪 Philosophers https://github.com/Drwuu/philosophers_42
+- 📘 Implemented a threading project centered around the concept of dining philosophers using C++.
+- 🛠 Explored the intricate nuances of concurrency, mutexes, and semaphores within the context of the dining philosophers problem.
+- 🚀 Designed and executed solutions to address synchronization issues and deadlock prevention strategies.
+
+## 🌟 Minitalk https://github.com/Drwuu/minitalk_42
+- 📚 Constructed a communication system in C, focusing on interprocess communication within the 42 School framework.
+- 🛠️ Implemented a client-server model using signals for seamless data exchange between processes.
+- ⚙️ Engineered a specialized protocol ensuring efficient and reliable data transmission, emphasizing signal handling and low-level system calls.
+
+## 🗺️ Containers https://github.com/Drwuu/containers_42
 - 🔍 Developed a custom C++ map container similar to std::map.
 - ⚙️ Implemented basic operations like insert, find, and erase.
 - 🌲 Practiced balancing trees for optimized data storage and retrieval.
 
-## 📦 Inception
+## 📦 Inception https://github.com/Drwuu/inception_42
 - 🐳 Created a Docker-based architecture to deploy multiple services and applications.
 - 🌐 Focused on containerization, orchestration, and DevOps practices.
 - 🚀 Gained experience in Docker, Docker Compose, and microservices architecture.
 
-## 💬 Transcendance
+## 💬 Transcendance 
 - 🌐 Developed a web-based social network from scratch using HTML, CSS, JavaScript, and back-end frameworks.
 - 🗨️ Implemented features like user authentication, friend requests, posts, and real-time chat.
 - 🚀 Enhanced skills in full-stack development, database design, and RESTful API construction.

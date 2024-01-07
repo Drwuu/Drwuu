@@ -145,7 +145,7 @@
 - 🌐 Focused on containerization, orchestration, and DevOps practices.
 - 🚀 Gained experience in Docker, Docker Compose, and microservices architecture.
 
-## 💬 <a href="https://github.com/Drwuu/minitalk_42" style="color:black;"> Transcendance </a>
+## 💬 <a href="https://github.com/Drwuu/transcendance_42.git" style="color:black;"> Transcendance </a>
 - 🌐 Developed a web-based social network from scratch using HTML, CSS, JavaScript, and back-end frameworks.
 - 🗨️ Implemented features like user authentication, friend requests, posts, and real-time chat.
 - 🚀 Enhanced skills in full-stack development, database design, and RESTful API construction.

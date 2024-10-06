@@ -44,9 +44,6 @@
 
 <h1 align="center">🎮 Winken</h1>
 <div id="badges" align="center">
- <a href="https://www.winkengame.com">
-   <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=download&logoColor=white" alt=""/>
- </a>
  <a href="https://www.youtube.com/watch?v=x8pesFpLyzI">
    <img src="https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
  </a>

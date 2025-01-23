@@ -47,11 +47,11 @@
  <a href="https://youtu.be/9vDtiBVfAv8?si=vTAxjky93qlyj">
    <img src="https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
  </a>
- <a href="#">
+ <a href="https://store.steampowered.com/app/2535960/Winken/">
   <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
 </a>
   
-🚀Winken is a video game I made on my own, during my 42 studies. It is a rhythm game in which you learn music theory in the background🚀
+🚀Winken is a piano/rhythm game in which you read real notes on a real score, thanks to your PC Keyboard or Midi Controller 🚀
 </div>
 <br>
 

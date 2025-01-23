@@ -44,10 +44,10 @@
 
 <h1 align="center">🎮 Winken</h1>
 <div id="badges" align="center">
- <a href="https://youtu.be/9vDtiBVfAv8?si=vTAxjky93qlyj">
+ <a href="https://youtu.be/9vDtiBVfAv8?si=vTAxjky93qlyj?utm_source=github">
    <img src="https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
  </a>
- <a href="https://store.steampowered.com/app/2535960/Winken/">
+ <a href="https://store.steampowered.com/app/2535960/Winken/?utm_source=github">
   <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
 </a>
   

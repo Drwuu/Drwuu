@@ -44,9 +44,12 @@
 
 <h1 align="center">🎮 Winken</h1>
 <div id="badges" align="center">
- <a href="https://www.youtube.com/watch?v=x8pesFpLyzI">
+ <a href="https://youtu.be/9vDtiBVfAv8?si=vTAxjky93qlyj">
    <img src="https://img.shields.io/badge/Watch_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
  </a>
+ <a href="#">
+  <img src="https://img.shields.io/badge/Steam-Black?style=for-the-badge&logo=steam&logoColor=black" alt="Steam"/>
+</a>
   
 🚀Winken is a video game I made on my own, during my 42 studies. It is a rhythm game in which you learn music theory in the background🚀
 </div>
